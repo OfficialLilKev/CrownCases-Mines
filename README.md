@@ -1,6 +1,8 @@
 # 💣 Crown CasesMines
 
-**Game Preview:** [https://www.dropbox.com/scl/fi/cpmtifkofqmjnksg9kp4x/Screenshot-2026-04-14-095538.png?rlkey=0g7jqi7aehnyex21t874lc9xk\&st=d39csgem\&dl=0](https://www.dropbox.com/scl/fi/cpmtifkofqmjnksg9kp4x/Screenshot-2026-04-14-095538.png?rlkey=0g7jqi7aehnyex21t874lc9xk&st=d39csgem&dl=0)
+<p align="center">
+  <img src="crownmines.png" width="700"/>
+</p>
 
 A sleek, provably fair Mines game built with high-performance web technologies. This application allows users to navigate a 5x5 grid to uncover multipliers while avoiding hidden mines, featuring real-time risk calculation and a responsive, futuristic interface.
 
