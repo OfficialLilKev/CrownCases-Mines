@@ -1,14 +1,8 @@
-# 💣 Crown Cases Mines
+# 💣 Crown CasesMines
+
+**Game Preview:** [https://www.dropbox.com/scl/fi/cpmtifkofqmjnksg9kp4x/Screenshot-2026-04-14-095538.png?rlkey=0g7jqi7aehnyex21t874lc9xk\&st=d39csgem\&dl=0](https://www.dropbox.com/scl/fi/cpmtifkofqmjnksg9kp4x/Screenshot-2026-04-14-095538.png?rlkey=0g7jqi7aehnyex21t874lc9xk&st=d39csgem&dl=0)
 
 A sleek, provably fair Mines game built with high-performance web technologies. This application allows users to navigate a 5x5 grid to uncover multipliers while avoiding hidden mines, featuring real-time risk calculation and a responsive, futuristic interface.
-
-## 📺 Gameplay Preview
-
-See the game in action. These recordings demonstrate the betting flow, tile selection, and cash-out mechanics.
-
-| UI & Betting Flow | Gameplay Mechanics |
-| :--- | :--- |
-| \<video src="[https://www.dropbox.com/scl/fi/pl6txg10xqv3gnd78renf/Screen-Recording-2026-04-14-002952.mp4?rlkey=jyw2vtmmao078m18qej50e4e6\&st=ez6tiamp\&raw=1](https://www.google.com/search?q=https://www.dropbox.com/scl/fi/pl6txg10xqv3gnd78renf/Screen-Recording-2026-04-14-002952.mp4%3Frlkey%3Djyw2vtmmao078m18qej50e4e6%26st%3Dez6tiamp%26raw%3D1)" width="350px"\>\</video\> | \<video src="[https://www.dropbox.com/scl/fi/n1hzw2jzcj1enqow28dy1/Screen-Recording-2026-04-14-094408.mp4?rlkey=dl21h14p2ibaztrszn6b6hhyw\&st=gk0rdb5b\&raw=1](https://www.google.com/search?q=https://www.dropbox.com/scl/fi/n1hzw2jzcj1enqow28dy1/Screen-Recording-2026-04-14-094408.mp4%3Frlkey%3Ddl21h14p2ibaztrszn6b6hhyw%26st%3Dgk0rdb5b%26raw%3D1)" width="350px"\>\</video\> |
 
 ## 🚀 Features
 
